@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Our Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background-color: #6200ea;
+            color: white;
+            padding: 20px 0;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        .container {
+            padding: 50px 20px;
+        }
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #6200ea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            transition: background-color 0.3s ease;
+        }
+        .btn:hover {
+            background-color: #3700b3;
+        }
+        footer {
+            margin-top: 50px;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Website</h1>
+    </header>
+    <div class="container">
+        <p>Hello and welcome! We're thrilled to have you here. Explore our website to discover exciting content, services, and more.</p>
+        <a href="next-page.html" class="btn">Get Started</a>
+    </div>
+    <footer>
+        <p>&copy; 2023 Your Company. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Next Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background-color: #6200ea;
+            color: white;
+            padding: 20px 0;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        .container {
+            padding: 50px 20px;
+        }
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #6200ea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            transition: background-color 0.3s ease;
+        }
+        .btn:hover {
+            background-color: #3700b3;
+        }
+        footer {
+            margin-top: 50px;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Next Page</h1>
+    </header>
+    <div class="container">
+        <p>You've successfully navigated to the next page! Here, you can find more information about our services and offerings.</p>
+        <a href="index.html" class="btn">Go Back to Home</a>
+    </div>
+    <footer>
+        <p>&copy; 2023 Your Company. All rights reserved.</p>
+    </footer>
+</body>
+</html>
